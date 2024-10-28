@@ -90,7 +90,7 @@ public class BrowserHistoryManagerGUI extends JFrame {
     public BrowserHistoryManagerGUI() {
         browserHistory = new History();
         setTitle("Browser History Manager");
-        setSize(400, 400);
+        setSize(600, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
